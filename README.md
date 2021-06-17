@@ -1,12 +1,15 @@
 # Holy Bible API
 > Create by André Brum
 
-## Objetivos
+# ![50%](https://progress-bar.dev/50)
+
+## 💡 Objetivos
 
 - [ ] Aprender usar o git
 - [ ] Aprender usar uma API
 
-## Funcionalidades
+
+## 🛠 Funcionalidades
 
 - 🔖 Marcador de Leitura
 - 📑 Comentário em versículos
