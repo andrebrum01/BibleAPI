@@ -2,7 +2,7 @@
 > Create by André Brum
 
 # ⚙ PROGRESSO GERAL DO SISTEMA
-## ![PROGRESS](https://progress-bar.dev/3/?width=300?scale=19)
+## ![PROGRESS](https://progress-bar.dev/3/?width=300&scale=19)
 
 ---
 
