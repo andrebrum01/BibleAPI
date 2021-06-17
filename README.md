@@ -1,7 +1,8 @@
 # Holy Bible API
 > Create by André Brum
 
-# ![50%](https://progress-bar.dev/50)
+# PROGRESSO GERAL DO SISTEMA
+## ![0%]
 
 ## 💡 Objetivos
 
