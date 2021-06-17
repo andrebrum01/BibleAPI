@@ -2,7 +2,7 @@
 > Create by André Brum
 
 # PROGRESSO GERAL DO SISTEMA
-## ![0%]
+## ![0%](https://progress-bar.dev/28/?width=300)
 
 ## 💡 Objetivos
 
